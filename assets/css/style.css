@@ -1,0 +1,13 @@
+/* body header nav  */
+ul {
+    background-color: lightgray;
+    list-style: none;
+}
+
+a {
+    color: red;
+}
+
+p span {
+    color: red;
+}
